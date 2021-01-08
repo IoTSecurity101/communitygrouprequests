@@ -7,7 +7,7 @@
 
 2. Website better development 
 
-3. Does anyone recommend some introductory materials for vxworks? Thank you
+3. Does anyone recommend some introductory materials for vxworks?  - getting resources
 
 4. Checklist universal for IoT Sec
 
