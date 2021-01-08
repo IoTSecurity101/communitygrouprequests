@@ -1,4 +1,4 @@
-# Requests from IoTSecurity101 group
+# Q&A from IoTSecurity101 group
 
 
 
